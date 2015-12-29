@@ -1,0 +1,6 @@
+; Fichier import_json_obs_cel/import_json_obs_cel.info
+name = import_json_obs_cel
+description = import des json générés par Web Service fournissant la liste et les coordonnées des stations publiques
+core = 7.x
+package = NS
+

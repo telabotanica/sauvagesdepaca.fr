@@ -1,0 +1,15 @@
+<?php
+  
+  $array12Plantes = array("parietaria judaica", "senecio vulgaris ", "piptatherum miliaceum",
+                          "polygonum aviculare","mercurialis annua","sonchus tenerrimus",
+                          "euphorbia helioscopia","centranthus ruber","buddleja davidii","ailanthus altissima");
+  
+  //$nomScieEflore = "parietaria judaica";
+  
+  foreach($array12Plantes as $nomScieEflore){
+  $json = file_get_contents("http://www.tela-botanica.org/service:cel:CelWidgetMapPoint/tout?zoom=8&ne=45.12668|7.718706&sw=42.982239|4.230691&projet=sauvages&taxon=$nomScieEflore");
+  $json = utf8_encode($json);
+  $nomScieEflore = str_replace(' ', '-', $nomScieEflore);
+  file_put_contents('sites/all/themes/bootstrap_sauvages/json/cel_taxon_sauvages_'.$nomScieEflore.'.json',$json);
+  };
+  

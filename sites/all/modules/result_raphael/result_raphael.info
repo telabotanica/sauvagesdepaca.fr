@@ -1,0 +1,15 @@
+
+name = result raphael
+description = Affiche les analyses scientifiques du lped à l'aide de la librairie Raphael.js et graphael.
+core = 7.x
+dependencies[] = graphael
+
+files[] = result_raphael.module
+files[] = result_raphael.inc
+scripts[] = result_raphael.js
+stylesheets[all][] = result_raphael.css
+
+
+version = "7.x-1.0"
+core = "7.x"
+package = NS

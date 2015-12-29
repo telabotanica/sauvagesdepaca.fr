@@ -1,0 +1,54 @@
+/*************************************/
+/*********** page résultats **********/
+/*************************************/
+#result_raphael ul {
+    background: #A0CA10;
+    padding: 20px 0 20px 0px;
+    width: 100%;
+    margin-left: 0;
+}
+#result_raphael ul li{
+    text-align: center;
+    font-size: 24px;
+}
+#result_raphael .badge-success {
+    background-color: white;
+    font-size: 26px;
+    padding: 15px 10px;
+    border-radius: 30px;
+    color: green;
+}
+#result_raphael div.text-vertical{
+    -webkit-transform: rotate(-90deg);
+    position: absolute4
+    bottom: 0;
+    left: -10px;
+}
+#result_raphael div#graphael-graph-1 {
+
+}
+
+#result_raphael .graph-container{
+    margin-bottom: 30px;
+    border-top: 1px solid #aaa;
+}
+#result_raphael .graph-container:nth-child(3) {
+    border-top: none;
+}
+#result_raphael .titre-chart {
+    background-color: #DEDB00;
+    text-align: center;
+    padding: 10px 0px;
+    font-family: inherit;
+    margin-bottom: 2px;
+    font-size: 28px;
+}
+@media (min-width: 768px){
+  #result_raphael p.result-resume strong {
+      display: table-cell;
+      vertical-align: middle;
+      height: 400px;
+      font-size: 24px;
+      line-height: 1.6;
+  } 
+}

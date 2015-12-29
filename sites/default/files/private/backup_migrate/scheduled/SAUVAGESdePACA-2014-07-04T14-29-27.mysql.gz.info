@@ -1,0 +1,8 @@
+filename = "SAUVAGESdePACA-2014-07-04T14-29-27"
+description = ""
+datestamp = "1404476968"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.28"
+sites[0][name] = "SAUVAGES de PACA"
+sites[0][url] = "http://sauvagesdepaca.fr/"

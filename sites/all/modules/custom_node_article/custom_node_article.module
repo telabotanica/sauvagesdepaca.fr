@@ -1,0 +1,44 @@
+<?php
+
+/**
+ * Implements hook_form_alter().
+ */
+function custom_node_article_form_alter(&$form, &$form_state, $form_id) {
+  if ($form_id == 'article_node_form') {
+    // Attach a custom after build handler.
+    $form['#after_build'][] = 'custom_node_article_form_after_build';    
+  }
+}
+
+/**
+ * An #after_build handler.
+ */
+function custom_node_article_form_after_build($form, &$form_state) {
+ //var_dump($form);
+ // This is a new node; the form is creating a new node.
+  if (!isset($form['nid']['#value']) || isset($node->is_new)) {
+   $destination = 'actualités'; 
+  }
+  else {
+   $id_node = $form['nid']['#value'];
+   $destination = "node/$id_node";
+  }
+  $form['actions']['cancel'] = array(
+    '#markup' => l(t('Cancel'), $destination),
+    '#weight' => 20,
+  );
+  return $form;
+}
+
+
+/**
+ * Implements hook_js_alter
+ */
+
+function preview_fix_js_alter(&$javascript){
+  $url = request_uri();
+  if (strstr($url, '/node/add/')) { 
+   $path = drupal_get_path('module', 'custom_node_article');
+   drupal_add_js($path . 'js/preview_fix.js');
+  }
+}

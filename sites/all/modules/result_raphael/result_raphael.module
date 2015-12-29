@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Affichage des résultats d'analyse avec la librairie javascript Raphael.js.
+ *
+ * The main module file is just concerned with Drupal hooks. All the fun 
+ * stuff happens in result_raphael.inc.
+ *
+ * @see result_raphael.inc
+ */
+
+/**
+ * Implementation of hook_menu().
+ */
+function result_raphael_menu() {
+  return array('analyses_scientifiques' => array(
+    'title' => 'Analyses Scientifiques',
+    'page callback' => 'result_raphael_graphs_page',
+    'access callback' => TRUE, // Everyone has access.
+    'file' => 'result_raphael.inc',
+  ));
+}
+

@@ -1,0 +1,8 @@
+; Fichier custom_node/custom_node.info
+name = custom_node_article
+description = custom content type article
+core = 7.x
+package = NS
+
+scripts[] = js/preview_fix.js
+stylesheets[all][] = css/style.css
