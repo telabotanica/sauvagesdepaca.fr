@@ -152,9 +152,9 @@
       <div class="container hidden-phone">
         <div class="span7 iFrame">
         </div>
-        <div class="span5 fold-block-text">
-          <h3>les animateurs locaux</h3>
-          <p>Plusieurs structures proposent des sorties Sauvages de PACA. Contactez-les et apprenez à plusieurs à reconnaître les Sauvages de vos rues&nbsp;!</p>
+		<div class="span5 fold-block-text">
+          <h3>agenda</h3>
+          <p>Retrouvez sur cet agenda tous les événements Sauvages de PACA. Pour ne rien rater notez bien les dates des sorties et des formations près de chez vous !   </p>
         </div>
       </div> 
     </section>
