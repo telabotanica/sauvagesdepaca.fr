@@ -89,8 +89,6 @@
             <hr class="invisible">
                 <div class="">
                   <a href="https://play.google.com/store/apps/details?id=eu.NaturalSolutions.SauvagesDeMaRue" alt="Télécharger l'application Sauvages de ma rue mobile sur Google Play" title="Télécharger l'application Sauvages de ma rue mobile sur Google Play" class="btn-store google-play">Google Play</a>
-                
-                  <a href="https://itunes.apple.com/us/app/sauvages-ma-rue-identification/id871906105?l=fr&ls=1&mt=8" alt="Bientôt disponible sur Apple Store" class="btn-store apple-store">Apple Store</a>
                 </div>
               
           </div>    
