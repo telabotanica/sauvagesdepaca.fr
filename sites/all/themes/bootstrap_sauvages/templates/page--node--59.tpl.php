@@ -88,7 +88,7 @@
       <hr>
       <h2>Site Web</h2>
         <p><strong>Ce site est réalisé avec le CMS Drupal par Natural Solutions :</strong> </br>
-          <address><a href="http://www.natural-solutions.eu" alt="Aller sur le site de Natural Solutions" target="_blanck"><strong>Natural Solutions</strong></a> </br>
+          <address><a href="http://www.natural-solutions.eu" alt="Aller sur le site de Natural Solutions" target="_blank"><strong>Natural Solutions</strong></a> </br>
           Société par Actions Simplifiée </br>
           68 rue Sainte 13001 MARSEILLE</br>
           SIREN : 50233391700024</br>
@@ -96,12 +96,12 @@
           email : contact @ natural-solutions.eu </br>
           </address>
         </p>
-        <p><strong>Hébergement</strong> : <a href="http:///www.graal-network.com" alt="Aller sur le site de Graal Network" target="_blanck"><strong>Graal Network</strong></a></br> </p>
+        <p><strong>Hébergement</strong> : <a href="http://www.graal-network.com" alt="Aller sur le site de Graal Network" target="_blank"><strong>Graal Network</strong></a></br> </p>
 	<address>
 	18 rue Negresko 13008 MARSEILLE </br>
 	</address>
-        <p><strong>Direction de la publication :</strong> <a href="http:///www.tela-botanica.org" alt="Aller sur le site de Tela Botanica" target="_blanck">Association Tela Botanica </a>
-          <address><a href="http:///www.tela-botanica.org" alt="Aller sur le site de Tela Botanica" target="_blanck"><strong>Tela Botanica</strong></a></br>
+        <p><strong>Direction de la publication :</strong> <a href="https://www.tela-botanica.org" alt="Aller sur le site de Tela Botanica" target="_blank">Association Tela Botanica </a>
+          <address><a href="https://www.tela-botanica.org" alt="Aller sur le site de Tela Botanica" target="_blank"><strong>Tela Botanica</strong></a></br>
           Association Loi 1901</br>
           Siège social : Institut de Botanique, 163 rue Auguste Broussonnet, 34090 Montpellier</br>
           SIRET : 42889895100028</br>
@@ -116,9 +116,9 @@
         <p><strong>Photos :</strong> Réseau Tela Botanica (licence cc-by-sa) - Bertrand Bui, Michel Pourchet, Remi Tournebize, Herve-Goeau, Thierry-Pernot, Daniel Barthelemy, Sébastien Jésel, Christophe Bernier, Genevieve Botti, Liliane Roubaudi, Claude Figureau, Jacques Marechal, John De Vos, Mathieu Menand, Claude Echardour, Vincent Jouhet, Alain-RIVIERE et Sophie-LEFETZ.</p>
         <p><strong>FlickR :</strong> (licence cc-by-sa) – Alazere, Sarah Gregg, naturgucker.de, Peter M Greenwood</p>
         <p><strong>Illustrations naturalistes :</strong> Tela Botanica</p>
-        <p><strong>Police de caractères utilisée pour le titrage :</strong> <a href="http://www.smeltery.net/fonts/trottoir" alt="Aller sur le site de Smeltery" target="_blanck">Police TRottoir par Smeltery</a></p>
+        <p><strong>Police de caractères utilisée pour le titrage :</strong> <a href="http://www.smeltery.net/fonts/trottoir" alt="Aller sur le site de Smeltery" target="_blank">Police TRottoir par Smeltery</a></p>
         <p><strong>Espace rédacteur :</strong> structures d'animations - Tela Botanica, Laboratoire Population Environnement et Développement, La Boate, Arborescence, Centre d'Animation du Vieux Moulin, Espace citoyen et de la création des canourgues, E4, Ville de Marseille.</p>
-        <p><strong>Observations :</strong> Les observations collectées dans le cadre du programme Sauvages de PACA sont transmises au service <a href="https://www.tela-botanica.org/page:cel" target="_blanck" alt="Aller sur la page de présenation du cel sur le site de Tela Botanica" title="Aller sur la page de présenation du cel sur le site de Tela Botanica">Carnet En Ligne (CEL)</a> élaboré par Tela Botanica. En transmettant leurs observations, les utilisateurs acceptent les conditions définies dans <a href="https://www.tela-botanica.org/page:charte_carnet_en_ligne" alt="Charte d'utilisation du Carnet en ligne" title="Lire la charte d'utilisation du Carnet en Ligne" target="_blanck">la charte du CEL</a>.</p>
+        <p><strong>Observations :</strong> Les observations collectées dans le cadre du programme Sauvages de PACA sont transmises au service <a href="https://www.tela-botanica.org/page:cel" target="_blank" alt="Aller sur la page de présenation du cel sur le site de Tela Botanica" title="Aller sur la page de présenation du cel sur le site de Tela Botanica">Carnet En Ligne (CEL)</a> élaboré par Tela Botanica. En transmettant leurs observations, les utilisateurs acceptent les conditions définies dans <a href="https://www.tela-botanica.org/page:charte_carnet_en_ligne" alt="Charte d'utilisation du Carnet en ligne" title="Lire la charte d'utilisation du Carnet en Ligne" target="_blank">la charte du CEL</a>.</p>
     </section>
 
     <?php if (!empty($page['sidebar_second'])): ?>

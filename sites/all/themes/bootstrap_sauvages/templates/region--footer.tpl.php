@@ -34,7 +34,7 @@
     <div class="container">
       
       <div class="span3 middle-in-span">
-          <a href="http://www.vigienature.mnhn.fr" alt="Aller sur le site de Vigie Nature" target="_blanck"><img class="center-in-span" src="<?php echo $base_path;?>sites/all/themes/bootstrap_sauvages/image/logo/logo_vigie_nature_mail.jpg"/></a>
+          <a href="http://www.vigienature.mnhn.fr" alt="Aller sur le site de Vigie Nature" target="_blank"><img class="center-in-span" src="<?php echo $base_path;?>sites/all/themes/bootstrap_sauvages/image/logo/logo_vigie_nature_mail.jpg"/></a>
       </div>
       <div class="span9 middle-in-span">
         <p>Sauvages de PACA est l'adaptation de l'observatoire sur la flore urbaine Sauvages de ma rue qui fait partie du programme de sciences participatives du Muséum national d'Histoire naturel,Vigie-Nature.</p>

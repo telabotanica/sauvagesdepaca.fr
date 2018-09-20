@@ -89,7 +89,7 @@
           <hr>
           <h2>Mode d'emploi&nbsp;:</h2>
           <ul><li>Zoomez sur votre ville pour voir les observations</li><li>Cliquez sur les points pour voir la liste des plantes rencontrées.</li><li>Cliquez sur la colonne gauche pour filtrer par espèce.</li></ul>
-          <p class="nota-bene">NB&nbsp;:&nbsp;Si vous souhaitez contacter un observateur à travers cette carte des observations, il faut que vous soyez tous deux inscrits sur le site de Tela Botanica : <a href="https://www.tela-botanica.org/page:inscription" target="_blanck" title="S'inscrire : https://www.tela-botanica.org/page:inscription">inscription</a></p>
+          <p class="nota-bene">NB&nbsp;:&nbsp;Si vous souhaitez contacter un observateur à travers cette carte des observations, il faut que vous soyez tous deux inscrits sur le site de Tela Botanica : <a href="https://www.tela-botanica.org/page:inscription" target="_blank" title="S'inscrire : https://www.tela-botanica.org/page:inscription">inscription</a></p>
         </div>
       </div>
       <div class="cheminement row-fluid">
