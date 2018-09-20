@@ -81,7 +81,7 @@
       <?php //print render($page['content']); ?>
       <div class="row-fluid">
         <div class="iFrame span9">
-          <iframe frameborder="0" scrolling="no" src="http://www.tela-botanica.org/widget:cel:cartoPoint?projet=sauvages&amp;dept=13,84,83,06,04,05&amp;titre=Observations%20en%20PACA" style="width:100%;height:600px;"></iframe>
+          <iframe frameborder="0" scrolling="no" src="https://www.tela-botanica.org/widget:cel:cartoPoint?projet=sauvages&amp;dept=13,84,83,06,04,05&amp;titre=Observations%20en%20PACA" style="width:100%;height:600px;"></iframe>
         </div>
         <div class="well span3 encart jaune">
           <p class="lead">Le nombre d'observations ne cesse d'augmenter en région <strong>PACA</strong>.</br>
@@ -89,7 +89,7 @@
           <hr>
           <h2>Mode d'emploi&nbsp;:</h2>
           <ul><li>Zoomez sur votre ville pour voir les observations</li><li>Cliquez sur les points pour voir la liste des plantes rencontrées.</li><li>Cliquez sur la colonne gauche pour filtrer par espèce.</li></ul>
-          <p class="nota-bene">NB&nbsp;:&nbsp;Si vous souhaitez contacter un observateur à travers cette carte des observations, il faut que vous soyez tous deux inscrits sur le site de Tela Botanica : <a href="http://www.tela-botanica.org/page:inscription" target="_blanck" title="S'inscrire : http://www.tela-botanica.org/page:inscription">inscription</a></p>
+          <p class="nota-bene">NB&nbsp;:&nbsp;Si vous souhaitez contacter un observateur à travers cette carte des observations, il faut que vous soyez tous deux inscrits sur le site de Tela Botanica : <a href="https://www.tela-botanica.org/page:inscription" target="_blanck" title="S'inscrire : https://www.tela-botanica.org/page:inscription">inscription</a></p>
         </div>
       </div>
       <div class="cheminement row-fluid">

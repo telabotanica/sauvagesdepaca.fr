@@ -84,7 +84,7 @@
         <p class="lead">Le programme <a href="http://sauvagesdemarue.mnhn.fr/sauvages-de-ma-rue/presentation" target="_blank"><strong>Sauvages de ma rue</strong></a> s’adapte à la biodiversité spécifique des villes du sud-est de la France et se décline en <strong>Sauvages de PACA</strong>&nbsp;!</p>
         <ul>
           <li class="lead"><a href="http://www.marseille.fr/" target="_blank">Marseille</a> et <a href="http://www.salondeprovence.fr/" target="_blank">Salon de Provence</a>, deux villes pionnières, s’impliquent dans ce projet.</li>
-          <li class="lead">Le <a href="http://lped.org/" target="_blank">"Laboratoire Population Environnement et Développement"</a> (Aix-Marseille université/IRD) accompagne l’association <a href="http://www.tela-botanica.org/‎" target="_blank">Tela Botanica</a> a dans le pilotage du projet en PACA.
+          <li class="lead">Le <a href="http://lped.org/" target="_blank">"Laboratoire Population Environnement et Développement"</a> (Aix-Marseille université/IRD) accompagne l’association <a href="https://www.tela-botanica.org/‎" target="_blank">Tela Botanica</a> a dans le pilotage du projet en PACA.
         C’est le partenaire scientifique privilégié pour l’analyse les données collectées.
           </li>
         </ul>

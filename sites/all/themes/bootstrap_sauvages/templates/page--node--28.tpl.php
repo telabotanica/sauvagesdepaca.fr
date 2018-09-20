@@ -82,7 +82,7 @@
       <?php // print render($page['content']); ?>
       <div class="row-fluid">
         <div class="iFrame span9">
-          <iframe name='obs-tela' style="width:100%;height:1550px;border:none;" src="http://www.tela-botanica.org/widget:cel:saisie?projet=sauvages"></iframe>
+          <iframe name='obs-tela' style="width:100%;height:1550px;border:none;" src="https://www.tela-botanica.org/widget:cel:saisie?projet=sauvages"></iframe>
         </div>
          <div class="well span3 jaune">
             <p class="lead">Envoyez vos données aux scientifiques simplement grâce à l'interface ci-contre.</p>
